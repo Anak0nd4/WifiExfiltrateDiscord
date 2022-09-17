@@ -6,3 +6,8 @@ This is a simple powershell script to exfiltrate wifi passwords using discord. T
 You can change the value of {LANG VALUE} depending of the language used in the target.
 - French : "Contenu de la clé"
 - English : "Key Content"
+
+## Contact 
+[![Twitter URL](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kondah_ha)
+
+
